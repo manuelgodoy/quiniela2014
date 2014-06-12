@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <title>Quiniela Mundial 2014</title>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  
+  <body>
+    <header class="container group">
+    <h1 class="logo">Quiniela <br> Mundial</h1>
+    <h3 class = "tagline">12 de Junio&ndash;13 de Julio</h3>
+       <nav class="nav primary-nav">
+        <a href="index.html">Inicio</a>
+        <a href="puntuacion.html">Reglas de Puntuacion</a>
+        <a href="Quiniela.xlsm" target="_blank">Bajate el archivo aqui</a>
+        
+        </nav>
+    </header>
+    <section class="hero container">
+        <h2>Posiciones Quiniela</h2>
+        <table class="tabla">
+        
+        
+        <!-- Copiar resultado de script aqui abajo -->
+      <tr>
+       <tr>
+            <td>Manuel Godoy</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Antonio J. Gonzalez</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Jessica Gonzalez</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Cristina Gonzalez</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Daniel Alonzo</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Luis Escamillo</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Andres Carvajal</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Leonardo Rendon</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Askhat Turlybayev</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Rodrigo Feliu</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Daniel Parra</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Gustavo Plaza</td>
+            <td>0 ptos </td>
+            </tr>
+            <tr>
+            <td>Valeria Rincon</td>
+            <td>0 ptos </td>
+            </tr>
+        <!-- Copiar resultado de script hasta aqui -->
+        
+        
+        
+        </table>
+        <br>
+        <a class="btn btn-alt" href="register.html">Register Now</a>
+    </section>
+   
+    <footer  class="primary-footer container group">
+        <small>&copy; Godoy</small>
+        <p> Actualizado el 6 de Junio </p>
+        
+    </footer>
+  </body>
+</html>
