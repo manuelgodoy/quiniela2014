@@ -239,6 +239,13 @@ tfoot tr:last-child td {
   border-bottom: 0;
 }
 
+#banderas {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  display: none;
+}
+
 .tabla2{
   border-collapse: collapse;
   margin-left:auto; 
