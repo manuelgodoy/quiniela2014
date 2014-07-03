@@ -234,6 +234,7 @@ th,
 td {
   border-bottom: 1px solid #cecfd5;
   padding: 10px 15px;
+  cursor: default
 }
 tfoot tr:last-child td {
   border-bottom: 0;
