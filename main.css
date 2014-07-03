@@ -246,6 +246,8 @@ tfoot tr:last-child td {
   height: 50px;
 
   display: none;
+  border-radius: 50%;
+  
 }
 
 .tabla2{
