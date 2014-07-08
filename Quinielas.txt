@@ -1,0 +1,2241 @@
+Nombre:Manuel Godoy
+Edad:27
+País:USA
+Ciudad:Houston
+Correo:manuelgm@gmail.com
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;2;2;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;0;0;;
+4;Chile;Australia;3;0;;
+19;Australia;Países Bajos;1;3;;
+20;España;Chile;4;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;1;0;;
+37;Japón;Colombia;0;0;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;3;2;;
+24;Italia;Costa Rica;1;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;0;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;4;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;2;1;;
+11;Argentina;Bosnia-Herzegovina;1;0;;
+12;Irán;Nigeria;0;3;;
+27;Argentina;Irán;4;1;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;3;0;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;2;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;1;1;;
+45;EEUU;Alemania;0;3;;
+46;Portugal;Ghana;3;2;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;3;2;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;0;0;;
+47;República de Corea;Bélgica;0;3;;
+48;Argelia;Rusia;1;0;;
+49;Brasil;Países Bajos;3;2;0;0
+50;Colombia;Italia;0;0;4;3
+51;España;Croacia;1;0;0;0
+52;Uruguay;Costa de Marfil;1;0;0;0
+53;Ecuador;Nigeria;4;3;0;0
+54;Alemania;Argelia;3;0;0;0
+55;Argentina;Francia;1;0;0;0
+56;Bélgica;Portugal;2;1;0;0
+57;Brasil;Colombia;1;0;0;0
+58;Ecuador;Alemania;1;3;0;0
+59;España;Uruguay;1;0;0;0
+60;Argentina;Bélgica;2;0;0;0
+61;Brasil;Alemania;1;1;3;2
+62;España;Argentina;1;2;0;0
+63;Alemania;España;3;2;0;0
+64;Brasil;Argentina;3;0;0;0
+Nombre:Antonio J. Gonzalez
+Edad:34
+País:USA
+Ciudad:Sugar Land
+Correo:agonzalez82@slb.com
+Teléfono:7136280893
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;0;;
+17;Brasil;México;1;0;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;0;0;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;3;0;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;0;1;;
+20;España;Chile;1;1;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;1;2;;
+5;Colombia;Grecia;1;1;;
+6;Costa de Marfil;Japón;2;2;;
+21;Colombia;Costa de Marfil;1;2;;
+22;Japón;Grecia;1;0;;
+37;Japón;Colombia;0;3;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;4;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;0;1;;
+10;Francia;Honduras;0;0;;
+25;Suiza;Francia;1;0;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;1;1;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;0;0;;
+13;Alemania;Portugal;1;2;;
+14;Ghana;EEUU;0;1;;
+29;Alemania;Ghana;3;0;;
+30;EEUU;Portugal;1;4;;
+45;EEUU;Alemania;0;3;;
+46;Portugal;Ghana;2;1;;
+15;Bélgica;Argelia;1;0;;
+16;Rusia;República de Corea;1;1;;
+31;Bélgica;Rusia;2;0;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;1;1;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Chile;2;1;0;0
+50;Costa de Marfil;Italia;0;2;0;0
+51;España;México;1;0;0;0
+52;Uruguay;Colombia;3;0;0;0
+53;Ecuador;Nigeria;1;1;4;3
+54;Portugal;República de Corea;2;1;0;0
+55;Argentina;Suiza;3;0;0;0
+56;Bélgica;Alemania;1;2;0;0
+57;Brasil;Italia;3;2;0;0
+58;Ecuador;Portugal;0;1;0;0
+59;España;Uruguay;2;0;0;0
+60;Argentina;Alemania;2;1;0;0
+61;Brasil;Portugal;1;0;0;0
+62;España;Argentina;1;2;0;0
+63;Portugal;España;1;2;0;0
+64;Brasil;Argentina;2;3;0;0
+Nombre:Jessica Gonzalez
+Edad:29
+País:USA
+Ciudad:Houston
+Correo:jessicagc84@yahoo.com
+Teléfono:7136280351
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;0;0;;
+17;Brasil;México;2;0;;
+18;Camerún;Croacia;1;1;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;1;1;;
+19;Australia;Países Bajos;0;1;;
+20;España;Chile;2;1;;
+35;Australia;España;1;2;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;0;1;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;1;1;;
+37;Japón;Colombia;0;2;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;0;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;0;1;;
+10;Francia;Honduras;0;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;1;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;0;1;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;1;0;;
+28;Nigeria;Bosnia-Herzegovina;1;0;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;0;0;;
+13;Alemania;Portugal;1;2;;
+14;Ghana;EEUU;0;1;;
+29;Alemania;Ghana;1;0;;
+30;EEUU;Portugal;1;1;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;2;1;;
+15;Bélgica;Argelia;1;0;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;1;0;;
+32;República de Corea;Argelia;0;0;;
+47;República de Corea;Bélgica;1;1;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Países Bajos;2;0;0;0
+50;Colombia;Inglaterra;0;2;0;0
+51;España;Croacia;1;0;0;0
+52;Italia;Grecia;2;0;0;0
+53;Francia;Nigeria;1;0;4;3
+54;Portugal;Rusia;2;1;0;0
+55;Argentina;Ecuador;2;0;0;0
+56;Bélgica;Alemania;1;2;0;0
+57;Brasil;Inglaterra;2;1;0;0
+58;Francia;Portugal;1;0;0;0
+59;España;Italia;2;0;0;0
+60;Argentina;Alemania;2;1;0;0
+61;Brasil;Francia;1;2;0;0
+62;España;Argentina;2;1;0;0
+63;Brasil;Argentina;1;2;0;0
+64;Francia;España;2;3;0;0
+Nombre:Cristina Gonzalez
+Edad:25
+País:USA
+Ciudad:Raleigh
+Correo:cegs03@gmail.com
+Teléfono:919-607-2562
+1;Brasil;Croacia;3;0;;
+2;México;Camerún;1;2;;
+17;Brasil;México;2;1;;
+18;Camerún;Croacia;1;0;;
+33;Croacia;México;1;2;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;1;2;;
+20;España;Chile;3;1;;
+35;Australia;España;1;3;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;1;2;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;0;1;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;2;1;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;1;2;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;1;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;1;3;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;1;3;;
+44;Bosnia-Herzegovina;Irán;2;1;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;2;1;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;2;1;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;2;3;;
+49;Brasil;Países Bajos;2;1;0;0
+50;Colombia;Inglaterra;1;2;0;0
+51;España;Camerún;3;1;0;0
+52;Uruguay;Costa de Marfil;3;1;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Rusia;3;1;0;0
+55;Argentina;Ecuador;3;2;0;0
+56;Bélgica;Portugal;1;3;0;0
+57;Brasil;Inglaterra;2;1;0;0
+58;Francia;Alemania;1;3;0;0
+59;España;Uruguay;2;1;0;0
+60;Argentina;Portugal;2;1;0;0
+61;Brasil;Alemania;1;2;0;0
+62;España;Argentina;2;1;0;0
+63;Brasil;Argentina;3;2;0;0
+64;Alemania;España;2;1;0;0
+Nombre:Daniel Alonzo
+Edad:26
+País:USA
+Ciudad:Houston
+Correo:3800 CR 94 Apt 20205 Manvel, TX 77578
+Teléfono:786 380 0042
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;1;1;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;2;0;;
+35;Australia;España;1;3;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;0;0;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;0;2;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;0;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;3;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;3;1;;
+25;Suiza;Francia;1;1;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;0;2;;
+42;Ecuador;Francia;1;1;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;2;0;;
+14;Ghana;EEUU;1;0;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;2;2;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;1;1;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;1;0;;
+47;República de Corea;Bélgica;0;1;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Países Bajos;2;1;0;0
+50;Colombia;Uruguay;0;0;2;3
+51;España;Croacia;2;0;0;0
+52;Italia;Costa de Marfil;1;0;0;0
+53;Francia;Bosnia-Herzegovina;2;1;0;0
+54;Alemania;Rusia;3;1;0;0
+55;Argentina;Suiza;2;1;0;0
+56;Bélgica;Portugal;2;1;0;0
+57;Brasil;Uruguay;2;1;0;0
+58;Francia;Alemania;0;1;0;0
+59;España;Italia;1;2;0;0
+60;Argentina;Bélgica;2;1;0;0
+61;Brasil;Alemania;1;1;3;2
+62;Italia;Argentina;1;2;0;0
+63;Alemania;Italia;2;3;0;0
+64;Brasil;Argentina;1;2;0;0
+Nombre:Luis Escamillo
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;3;2;;
+17;Brasil;México;1;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;2;2;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;1;3;;
+20;España;Chile;2;1;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;2;2;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;2;2;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;2;1;;
+37;Japón;Colombia;0;1;;
+38;Grecia;Costa de Marfil;0;3;;
+7;Uruguay;Costa Rica;2;1;;
+8;Inglaterra;Italia;2;2;;
+23;Uruguay;Inglaterra;3;2;;
+24;Italia;Costa Rica;3;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;0;0;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;2;0;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;3;1;;
+28;Nigeria;Bosnia-Herzegovina;2;2;;
+43;Nigeria;Argentina;1;3;;
+44;Bosnia-Herzegovina;Irán;2;2;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;4;0;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;3;0;;
+15;Bélgica;Argelia;1;1;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;2;2;;
+32;República de Corea;Argelia;1;1;;
+47;República de Corea;Bélgica;2;2;;
+48;Argelia;Rusia;0;3;;
+49;Brasil;Países Bajos;3;2;0;0
+50;Colombia;Italia;1;2;0;0
+51;España;México;3;2;0;0
+52;Uruguay;Costa de Marfil;3;1;0;0
+53;Francia;Nigeria;3;1;0;0
+54;Alemania;Bélgica;4;0;0;0
+55;Argentina;Ecuador;3;2;0;0
+56;Rusia;Portugal;1;3;0;0
+57;Brasil;Italia;2;1;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Uruguay;3;2;0;0
+60;Argentina;Portugal;1;2;0;0
+61;Brasil;Alemania;3;2;0;0
+62;España;Portugal;2;1;0;0
+63;Alemania;Portugal;3;2;0;0
+64;Brasil;España;2;1;0;0
+Nombre:Andres Carvajal
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;2;;
+17;Brasil;México;3;0;;
+18;Camerún;Croacia;1;1;;
+33;Croacia;México;2;1;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;3;0;;
+19;Australia;Países Bajos;1;3;;
+20;España;Chile;3;2;;
+35;Australia;España;0;4;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;3;0;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;2;0;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;0;3;;
+7;Uruguay;Costa Rica;4;0;;
+8;Inglaterra;Italia;0;2;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;0;0;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;0;2;;
+26;Honduras;Ecuador;1;3;;
+41;Honduras;Suiza;0;2;;
+42;Ecuador;Francia;1;1;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;4;1;;
+28;Nigeria;Bosnia-Herzegovina;2;1;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;3;0;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;0;0;;
+45;EEUU;Alemania;0;3;;
+46;Portugal;Ghana;3;2;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;2;2;;
+32;República de Corea;Argelia;3;1;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Chile;2;1;0;0
+50;Colombia;Italia;1;0;0;0
+51;España;Croacia;2;0;0;0
+52;Uruguay;Costa de Marfil;1;1;4;3
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Rusia;2;0;0;0
+55;Argentina;Ecuador;2;0;0;0
+56;Bélgica;Portugal;0;1;0;0
+57;Brasil;Colombia;2;1;0;0
+58;Francia;Alemania;0;2;0;0
+59;España;Uruguay;1;0;0;0
+60;Argentina;Portugal;2;1;0;0
+61;Brasil;Alemania;3;2;0;0
+62;España;Argentina;1;0;0;0
+63;Alemania;Argentina;2;3;0;0
+64;Brasil;España;2;1;0;0
+Nombre:Leonardo Rendon
+Edad:24
+País:Estados Unidos
+Ciudad:Houston
+Correo:leorendon8@hotmail.com
+Teléfono:813-990-9973
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;2;0;;
+18;Camerún;Croacia;0;2;;
+33;Croacia;México;2;1;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;1;1;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;1;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;2;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;1;1;;
+37;Japón;Colombia;0;2;;
+38;Grecia;Costa de Marfil;1;2;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;2;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;1;3;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;0;2;;
+45;EEUU;Alemania;0;3;;
+46;Portugal;Ghana;2;1;;
+15;Bélgica;Argelia;4;0;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;1;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;España;2;0;0;0
+50;Colombia;Uruguay;1;2;0;0
+51;Chile;Croacia;2;2;4;5
+52;Italia;Costa de Marfil;1;0;0;0
+53;Francia;Nigeria;3;0;0;0
+54;Alemania;Rusia;4;1;0;0
+55;Argentina;Ecuador;3;0;0;0
+56;Bélgica;Portugal;2;1;0;0
+57;Brasil;Uruguay;2;1;0;0
+58;Francia;Alemania;1;2;0;0
+59;Croacia;Italia;1;0;0;0
+60;Argentina;Bélgica;2;1;0;0
+61;Brasil;Alemania;2;1;0;0
+62;Croacia;Argentina;1;3;0;0
+63;Alemania;Croacia;2;1;0;0
+64;Brasil;Argentina;3;2;0;0
+Nombre:Askhat Turlybayev
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;0;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;1;2;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;0;0;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;1;0;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;2;1;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;0;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;1;0;;
+25;Suiza;Francia;0;0;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;0;1;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;1;0;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;1;0;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;0;;
+30;EEUU;Portugal;0;1;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;1;0;;
+32;República de Corea;Argelia;2;1;;
+47;República de Corea;Bélgica;0;2;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Países Bajos;3;1;0;0
+50;Colombia;Uruguay;2;1;0;0
+51;España;México;2;0;0;0
+52;Italia;Japón;1;0;0;0
+53;Francia;Nigeria;1;0;0;0
+54;Alemania;Rusia;2;0;0;0
+55;Argentina;Ecuador;1;0;0;0
+56;Bélgica;Portugal;1;0;0;0
+57;Brasil;Colombia;2;0;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Italia;1;0;0;0
+60;Argentina;Bélgica;1;0;0;0
+61;Brasil;Alemania;3;2;0;0
+62;España;Argentina;1;2;0;0
+63;Alemania;España;1;0;0;0
+64;Brasil;Argentina;1;0;0;0
+Nombre:Rodrigo Feliu
+Edad:35
+País:U.S.
+Ciudad:Houston
+Correo:rodfeliu@gmail.com
+Teléfono:281-698-7723
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;1;2;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;2;0;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;3;1;;
+4;Chile;Australia;1;0;;
+19;Australia;Países Bajos;1;1;;
+20;España;Chile;2;1;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;1;2;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;0;0;;
+37;Japón;Colombia;1;3;;
+38;Grecia;Costa de Marfil;0;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;0;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;1;;
+26;Honduras;Ecuador;0;1;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;2;1;;
+43;Nigeria;Argentina;2;3;;
+44;Bosnia-Herzegovina;Irán;0;0;;
+13;Alemania;Portugal;1;1;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;2;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;1;0;;
+16;Rusia;República de Corea;2;2;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;1;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Chile;2;1;0;0
+50;Colombia;Italia;0;3;0;0
+51;España;Croacia;2;0;0;0
+52;Uruguay;Costa de Marfil;2;1;0;0
+53;Francia;Nigeria;2;0;0;0
+54;Portugal;Rusia;3;1;0;0
+55;Argentina;Suiza;3;2;0;0
+56;Bélgica;Alemania;1;2;0;0
+57;Brasil;Italia;2;1;0;0
+58;Francia;Portugal;1;2;0;0
+59;España;Uruguay;1;0;0;0
+60;Argentina;Alemania;3;2;0;0
+61;Brasil;Portugal;1;2;0;0
+62;España;Argentina;2;1;0;0
+63;Brasil;Argentina;1;3;0;0
+64;Portugal;España;1;2;0;0
+Nombre:Daniel Parra
+Edad:
+Pa’s:
+Ciudad:
+Correo:
+TelŽfono:
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;2;;
+17;Brasil;México;4;0;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;4;1;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;3;1;;
+4;Chile;Australia;3;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;2;2;;
+35;Australia;España;1;4;;
+36;Países Bajos;Chile;2;3;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;2;2;;
+22;Japón;Grecia;3;1;;
+37;Japón;Colombia;1;3;;
+38;Grecia;Costa de Marfil;0;2;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;3;2;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;4;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;2;2;;
+10;Francia;Honduras;2;1;;
+25;Suiza;Francia;0;1;;
+26;Honduras;Ecuador;0;2;;
+41;Honduras;Suiza;1;3;;
+42;Ecuador;Francia;2;1;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;1;3;;
+27;Argentina;Irán;5;1;;
+28;Nigeria;Bosnia-Herzegovina;2;2;;
+43;Nigeria;Argentina;2;2;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;2;3;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;4;;
+45;EEUU;Alemania;2;1;;
+46;Portugal;Ghana;3;0;;
+15;Bélgica;Argelia;4;1;;
+16;Rusia;República de Corea;3;0;;
+31;Bélgica;Rusia;2;2;;
+32;República de Corea;Argelia;0;2;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;3;2;;
+49;Brasil;Chile;3;1;0;0
+50;Colombia;Inglaterra;4;2;0;0
+51;España;Croacia;2;1;0;0
+52;Uruguay;Costa de Marfil;3;1;0;0
+53;Ecuador;Nigeria;2;0;0;0
+54;Portugal;Argelia;4;0;0;0
+55;Argentina;Francia;3;2;0;0
+56;Bélgica;EEUU;2;2;3;5
+57;Brasil;Colombia;3;1;0;0
+58;Ecuador;Portugal;1;4;0;0
+59;España;Uruguay;2;3;0;0
+60;Argentina;EEUU;2;1;0;0
+61;Brasil;Portugal;2;3;0;0
+62;Uruguay;Argentina;1;3;0;0
+63;Brasil;Uruguay;4;2;0;0
+64;Portugal;Argentina;3;3;5;4
+Nombre:Gustavo Plaza
+Edad:32
+País:EEUU
+Ciudad:Houston
+Correo:gusplaza@gmail.com
+Teléfono:2022885355
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;1;0;;
+17;Brasil;México;2;1;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;1;1;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;3;0;;
+19;Australia;Países Bajos;1;2;;
+20;España;Chile;1;1;;
+35;Australia;España;1;3;;
+36;Países Bajos;Chile;2;2;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;1;1;;
+37;Japón;Colombia;2;2;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;2;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;1;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;0;4;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;2;2;;
+11;Argentina;Bosnia-Herzegovina;4;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;1;2;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;1;1;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;1;1;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;1;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;1;2;;
+49;Brasil;Chile;3;1;0;0
+50;Colombia;Uruguay;1;2;0;0
+51;España;México;2;1;0;0
+52;Italia;Japón;3;1;0;0
+53;Francia;Bosnia-Herzegovina;1;2;0;0
+54;Alemania;Rusia;3;0;0;0
+55;Argentina;Ecuador;2;1;0;0
+56;Bélgica;Portugal;2;2;3;4
+57;Brasil;Uruguay;2;1;0;0
+58;Bosnia-Herzegovina;Alemania;1;3;0;0
+59;España;Italia;1;0;0;0
+60;Argentina;Portugal;2;1;0;0
+61;Brasil;Alemania;2;1;0;0
+62;España;Argentina;1;2;0;0
+63;Alemania;España;1;2;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Valeria Rincon
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:8327907942
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;0;2;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;0;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;1;1;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;2;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;2;0;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;2;0;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;1;3;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;2;;
+24;Italia;Costa Rica;3;0;;
+39;Italia;Uruguay;1;2;;
+40;Costa Rica;Inglaterra;0;1;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;1;;
+26;Honduras;Ecuador;0;1;;
+41;Honduras;Suiza;0;2;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;2;1;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;1;0;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;1;;
+30;EEUU;Portugal;0;1;;
+45;EEUU;Alemania;1;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;0;0;;
+16;Rusia;República de Corea;1;1;;
+31;Bélgica;Rusia;1;0;;
+32;República de Corea;Argelia;0;1;;
+47;República de Corea;Bélgica;0;1;;
+48;Argelia;Rusia;1;0;;
+49;Brasil;Países Bajos;4;3;0;0
+50;Costa de Marfil;Uruguay;0;1;0;0
+51;España;Camerún;1;0;0;0
+52;Inglaterra;Colombia;1;0;0;0
+53;Francia;Nigeria;3;2;0;0
+54;Alemania;Argelia;1;0;0;0
+55;Argentina;Suiza;2;0;0;0
+56;Bélgica;Portugal;2;4;0;0
+57;Brasil;Uruguay;2;1;0;0
+58;Francia;Alemania;0;1;0;0
+59;España;Inglaterra;1;0;0;0
+60;Argentina;Portugal;3;2;0;0
+61;Brasil;Alemania;1;0;0;0
+62;España;Argentina;3;2;0;0
+63;Alemania;Argentina;1;0;0;0
+64;Brasil;España;1;0;0;0
+Nombre:Franco Rivero
+Edad:
+Pa’s:
+Ciudad:
+Correo:
+TelŽfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;0;0;;
+17;Brasil;México;2;0;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;1;0;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;1;0;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;0;1;;
+37;Japón;Colombia;0;1;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;0;0;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;0;1;;
+26;Honduras;Ecuador;0;1;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;0;1;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;0;0;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;0;0;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;1;0;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;0;2;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;1;0;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;1;1;;
+47;República de Corea;Bélgica;0;2;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Países Bajos;3;1;0;0
+50;Colombia;Italia;1;2;0;0
+51;España;Croacia;2;0;0;0
+52;Uruguay;Grecia;2;1;0;0
+53;Francia;Bosnia-Herzegovina;2;1;0;0
+54;Alemania;Rusia;2;0;0;0
+55;Argentina;Ecuador;2;1;0;0
+56;Bélgica;Portugal;0;1;0;0
+57;Brasil;Italia;2;1;0;0
+58;Francia;Alemania;0;1;0;0
+59;España;Uruguay;2;1;0;0
+60;Argentina;Portugal;1;0;0;0
+61;Brasil;Alemania;2;1;0;0
+62;España;Argentina;1;0;0;0
+63;Alemania;Argentina;0;1;0;1
+64;Brasil;España;2;1;0;0
+Nombre:Ricardo Vielma
+Edad:
+País:
+Ciudad:
+Correo:vielmara@gmail.com
+Teléfono:7134947570
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;4;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;5;0;;
+4;Chile;Australia;3;1;;
+19;Australia;Países Bajos;1;1;;
+20;España;Chile;2;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;0;2;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;0;2;;
+21;Colombia;Costa de Marfil;2;0;;
+22;Japón;Grecia;1;1;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;2;0;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;2;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;2;;
+40;Costa Rica;Inglaterra;0;3;;
+9;Suiza;Ecuador;0;1;;
+10;Francia;Honduras;2;1;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;2;1;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;0;1;;
+46;Portugal;Ghana;2;0;;
+15;Bélgica;Argelia;1;1;;
+16;Rusia;República de Corea;1;2;;
+31;Bélgica;Rusia;0;1;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;2;1;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Chile;3;1;0;0
+50;Colombia;Inglaterra;1;2;0;0
+51;España;Croacia;3;0;0;0
+52;Uruguay;Grecia;2;1;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Rusia;4;1;0;0
+55;Argentina;Ecuador;3;1;0;0
+56;República de Corea;Portugal;1;2;0;0
+57;Brasil;Inglaterra;1;0;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Uruguay;3;1;0;0
+60;Argentina;Portugal;2;0;0;0
+61;Brasil;Alemania;2;0;0;0
+62;España;Argentina;1;0;0;0
+63;Alemania;Argentina;0;1;0;0
+64;Brasil;España;2;0;0;0
+Nombre:Javier Ochoa
+Edad:23
+País:Estados Unidos
+Ciudad:Charlotte
+Correo:javiochoa91@gmail.com
+Teléfono:
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;2;2;;
+17;Brasil;México;2;0;;
+18;Camerún;Croacia;2;1;;
+33;Croacia;México;2;1;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;2;0;;
+4;Chile;Australia;3;1;;
+19;Australia;Países Bajos;1;4;;
+20;España;Chile;2;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;0;1;;
+5;Colombia;Grecia;3;1;;
+6;Costa de Marfil;Japón;1;2;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;2;0;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;2;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;2;;
+23;Uruguay;Inglaterra;1;3;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;0;3;;
+9;Suiza;Ecuador;3;1;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;1;;
+26;Honduras;Ecuador;2;1;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;1;3;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;2;2;;
+27;Argentina;Irán;4;1;;
+28;Nigeria;Bosnia-Herzegovina;1;2;;
+43;Nigeria;Argentina;0;3;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;1;2;;
+14;Ghana;EEUU;3;1;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;3;1;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;0;2;;
+48;Argelia;Rusia;1;3;;
+49;Brasil;Chile;3;1;0;0
+50;Japón;Inglaterra;0;2;0;0
+51;España;Camerún;4;1;0;0
+52;Italia;Colombia;2;1;0;0
+53;Francia;Bosnia-Herzegovina;3;1;0;0
+54;Portugal;Rusia;1;0;0;0
+55;Argentina;Suiza;3;1;0;0
+56;Bélgica;Alemania;0;2;0;0
+57;Brasil;Inglaterra;2;1;0;0
+58;Francia;Portugal;3;1;0;0
+59;España;Italia;2;1;0;0
+60;Argentina;Alemania;3;1;0;0
+61;Brasil;Francia;3;1;0;0
+62;España;Argentina;3;2;0;0
+63;Francia;Argentina;0;2;0;0
+64;Brasil;España;3;1;0;0
+Nombre:Felipe Silva Ardila
+Edad:30
+País:Colombia
+Ciudad:Bucaramanga
+Correo:fsilva25@slb.com
+Teléfono:720-209-8376
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;1;;
+17;Brasil;México;2;1;;
+18;Camerún;Croacia;2;2;;
+33;Croacia;México;1;2;;
+34;Camerún;Brasil;0;1;;
+3;España;Países Bajos;3;1;;
+4;Chile;Australia;2;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;3;1;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;1;2;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;2;1;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;2;2;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;2;;
+40;Costa Rica;Inglaterra;0;3;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;1;0;;
+25;Suiza;Francia;2;1;;
+26;Honduras;Ecuador;0;1;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;3;1;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;3;1;;
+43;Nigeria;Argentina;2;2;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;2;2;;
+29;Alemania;Ghana;3;2;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;3;2;;
+15;Bélgica;Argelia;2;1;;
+16;Rusia;República de Corea;2;2;;
+31;Bélgica;Rusia;3;1;;
+32;República de Corea;Argelia;2;1;;
+47;República de Corea;Bélgica;0;2;;
+48;Argelia;Rusia;2;2;;
+49;Brasil;Países Bajos;3;1;0;0
+50;Colombia;Inglaterra;2;1;0;0
+51;España;México;3;0;0;0
+52;Uruguay;Japón;3;1;0;0
+53;Ecuador;Nigeria;2;2;4;5
+54;Alemania;República de Corea;3;1;0;0
+55;Argentina;Suiza;2;0;0;0
+56;Bélgica;Portugal;3;2;0;0
+57;Brasil;Colombia;3;2;0;0
+58;Nigeria;Alemania;1;2;0;0
+59;España;Uruguay;2;2;5;3
+60;Argentina;Bélgica;3;2;0;0
+61;Brasil;Alemania;2;1;0;0
+62;España;Argentina;2;3;0;0
+63;Alemania;España;3;1;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Javier Arturo Nunez
+Edad:27
+País:VENEZUELA
+Ciudad:MARACAIBO
+Correo:javier.nunezfeliciani@gmail.com
+Teléfono:9548546283
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;2;2;;
+17;Brasil;México;3;0;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;3;1;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;1;0;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;1;2;;
+20;España;Chile;1;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;2;2;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;2;;
+21;Colombia;Costa de Marfil;0;0;;
+22;Japón;Grecia;3;1;;
+37;Japón;Colombia;2;1;;
+38;Grecia;Costa de Marfil;0;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;1;4;;
+9;Suiza;Ecuador;0;1;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;1;;
+26;Honduras;Ecuador;0;2;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;0;1;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;0;1;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;1;2;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;1;1;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;1;0;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;1;3;;
+49;Brasil;Chile;2;1;0;0
+50;Japón;Italia;1;1;3;4
+51;España;Croacia;2;1;0;0
+52;Uruguay;Colombia;3;1;0;0
+53;Francia;Bosnia-Herzegovina;2;0;0;0
+54;Portugal;Rusia;2;0;0;0
+55;Argentina;Ecuador;2;1;0;0
+56;Bélgica;Alemania;1;0;0;0
+57;Brasil;Italia;2;3;0;0
+58;Francia;Portugal;1;2;0;0
+59;España;Uruguay;2;1;0;0
+60;Argentina;Bélgica;3;1;0;0
+61;Italia;Portugal;1;2;0;0
+62;España;Argentina;1;1;4;3
+63;Italia;Argentina;0;2;0;0
+64;Portugal;España;1;2;0;0
+Nombre:Luis Parilli
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;0;1;;
+4;Chile;Australia;3;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;2;2;;
+35;Australia;España;0;4;;
+36;Países Bajos;Chile;1;0;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;0;0;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;1;2;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;0;0;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;4;0;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;0;2;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;3;2;;
+13;Alemania;Portugal;3;1;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;3;0;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;1;2;;
+49;Brasil;España;3;2;0;0
+50;Colombia;Italia;2;1;0;0
+51;Países Bajos;Croacia;3;1;0;0
+52;Uruguay;Grecia;1;2;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Rusia;3;0;0;0
+55;Argentina;Ecuador;1;0;0;0
+56;Bélgica;Portugal;1;0;0;0
+57;Brasil;Colombia;1;0;0;0
+58;Francia;Alemania;1;3;0;0
+59;Países Bajos;Grecia;2;1;0;0
+60;Argentina;Bélgica;2;0;0;0
+61;Brasil;Alemania;2;0;0;0
+62;Países Bajos;Argentina;1;0;0;0
+63;Alemania;Argentina;1;0;0;0
+64;Brasil;Países Bajos;3;2;0;0
+Nombre:Erika Guillen
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;3;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;2;2;;
+35;Australia;España;0;4;;
+36;Países Bajos;Chile;1;0;;
+5;Colombia;Grecia;2;2;;
+6;Costa de Marfil;Japón;0;0;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;1;2;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;0;0;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;4;0;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;0;2;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;3;2;;
+13;Alemania;Portugal;3;1;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;3;0;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;1;2;;
+49;Brasil;Países Bajos;3;2;0;0
+50;Grecia;Italia;2;1;0;0
+51;España;Croacia;3;1;0;0
+52;Uruguay;Colombia;1;2;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Rusia;3;0;0;0
+55;Argentina;Ecuador;1;0;0;0
+56;Bélgica;Portugal;1;0;0;0
+57;Brasil;Grecia;3;0;0;0
+58;Francia;Alemania;1;3;0;0
+59;España;Colombia;2;1;0;0
+60;Argentina;Bélgica;2;1;0;0
+61;Brasil;Alemania;2;0;0;0
+62;España;Argentina;1;0;0;0
+63;Alemania;Argentina;1;0;0;0
+64;Brasil;España;3;2;0;0
+Nombre:Antonio L. Gonzalez
+Edad:
+País:
+Ciudad:
+Correo:antoniogonmo34@gmail.com
+Teléfono:
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;0;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;3;;
+33;Croacia;México;1;1;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;4;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;1;0;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;2;2;;
+21;Colombia;Costa de Marfil;2;2;;
+22;Japón;Grecia;2;2;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;1;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;0;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;2;2;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;0;1;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;2;3;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;0;1;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;2;;
+46;Portugal;Ghana;1;1;;
+15;Bélgica;Argelia;3;1;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;0;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;3;;
+49;Brasil;Países Bajos;2;1;0;0
+50;Colombia;Uruguay;1;1;3;2
+51;España;Croacia;3;1;0;0
+52;Italia;Costa de Marfil;2;0;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Bélgica;3;1;0;0
+55;Argentina;Ecuador;3;1;0;0
+56;Rusia;Portugal;2;1;0;0
+57;Brasil;Colombia;2;0;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Italia;2;2;4;3
+60;Argentina;Rusia;1;1;3;2
+61;Brasil;Alemania;1;2;0;0
+62;España;Argentina;1;1;2;3
+63;Brasil;España;3;1;0;0
+64;Alemania;Argentina;1;2;0;0
+Nombre:Jorge A. Gimenez
+Edad:
+País:
+Ciudad:
+Correo:jandresgimenez@gmail.com
+Teléfono:
+1;Brasil;Croacia;2;1;;
+2;México;Camerún;1;0;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;3;;
+33;Croacia;México;1;1;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;1;1;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;1;3;;
+20;España;Chile;2;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;2;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;1;0;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;0;1;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;0;2;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;0;1;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;2;3;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;2;0;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;0;0;;
+13;Alemania;Portugal;3;1;;
+14;Ghana;EEUU;0;2;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;2;1;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;0;0;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Chile;2;0;0;0
+50;Colombia;Uruguay;0;1;0;0
+51;España;Croacia;3;1;0;0
+52;Italia;Japón;2;0;0;0
+53;Francia;Nigeria;3;1;0;0
+54;Alemania;Rusia;2;0;0;0
+55;Argentina;Ecuador;2;1;0;0
+56;Bélgica;EEUU;1;0;0;0
+57;Brasil;Uruguay;2;0;0;0
+58;Francia;Alemania;1;3;0;0
+59;España;Italia;2;0;4;3
+60;Argentina;Bélgica;2;2;5;4
+61;Brasil;Alemania;2;1;0;0
+62;España;Argentina;3;2;0;0
+63;Alemania;Argentina;2;1;0;0
+64;Brasil;España;3;1;0;0
+Nombre:Tomas Zirczy
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;0;;
+17;Brasil;México;2;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;0;0;;
+34;Camerún;Brasil;0;3;;
+3;España;Países Bajos;3;0;;
+4;Chile;Australia;1;0;;
+19;Australia;Países Bajos;1;1;;
+20;España;Chile;2;0;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;0;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;0;0;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;2;2;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;0;1;;
+7;Uruguay;Costa Rica;1;1;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;2;2;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;0;2;;
+42;Ecuador;Francia;1;0;;
+11;Argentina;Bosnia-Herzegovina;2;0;;
+12;Irán;Nigeria;0;0;;
+27;Argentina;Irán;3;1;;
+28;Nigeria;Bosnia-Herzegovina;1;0;;
+43;Nigeria;Argentina;1;1;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;1;;
+14;Ghana;EEUU;0;2;;
+29;Alemania;Ghana;3;0;;
+30;EEUU;Portugal;1;1;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;2;1;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;0;1;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;1;0;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Chile;3;1;0;0
+50;Colombia;Inglaterra;2;1;0;0
+51;España;México;2;1;0;0
+52;Italia;Costa de Marfil;2;0;0;0
+53;Ecuador;Nigeria;2;1;0;0
+54;Alemania;República de Corea;3;1;0;0
+55;Argentina;Francia;1;0;0;0
+56;Bélgica;Portugal;0;1;0;0
+57;Brasil;Colombia;2;1;0;0
+58;Ecuador;Alemania;2;3;0;0
+59;España;Italia;1;0;0;0
+60;Argentina;Portugal;2;1;0;0
+61;Brasil;Alemania;1;2;0;0
+62;España;Argentina;1;2;0;0
+63;Brasil;España;2;0;0;0
+64;Alemania;Argentina;2;0;0;0
+Nombre:Javier Ajjam
+Edad:24
+País:USA
+Ciudad:Houston
+Correo:javajjam@gmail.com
+Teléfono:5129646499
+1;Brasil;Croacia;3;0;;
+2;México;Camerún;1;0;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;3;2;;
+34;Camerún;Brasil;1;4;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;3;0;;
+19;Australia;Países Bajos;1;4;;
+20;España;Chile;2;2;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;2;;
+21;Colombia;Costa de Marfil;3;1;;
+22;Japón;Grecia;1;3;;
+37;Japón;Colombia;1;3;;
+38;Grecia;Costa de Marfil;1;1;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;1;2;;
+23;Uruguay;Inglaterra;3;1;;
+24;Italia;Costa Rica;4;1;;
+39;Italia;Uruguay;1;2;;
+40;Costa Rica;Inglaterra;0;1;;
+9;Suiza;Ecuador;0;1;;
+10;Francia;Honduras;3;1;;
+25;Suiza;Francia;1;4;;
+26;Honduras;Ecuador;2;4;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;2;2;;
+11;Argentina;Bosnia-Herzegovina;4;0;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;3;0;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;3;2;;
+14;Ghana;EEUU;1;3;;
+29;Alemania;Ghana;4;0;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;2;4;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;1;0;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;0;2;;
+32;República de Corea;Argelia;0;2;;
+47;República de Corea;Bélgica;2;3;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Países Bajos;3;1;0;0
+50;Colombia;Italia;1;2;0;0
+51;España;Croacia;2;1;0;0
+52;Uruguay;Grecia;2;0;0;0
+53;Francia;Nigeria;2;1;0;0
+54;Alemania;Bélgica;3;0;0;0
+55;Argentina;Ecuador;4;1;0;0
+56;Rusia;Portugal;1;2;0;0
+57;Brasil;Italia;2;1;0;0
+58;Francia;Alemania;2;3;0;0
+59;España;Uruguay;2;1;0;0
+60;Argentina;Portugal;3;1;0;0
+61;Brasil;Alemania;2;1;0;0
+62;España;Argentina;2;3;0;0
+63;Alemania;España;2;1;0;0
+64;Brasil;Argentina;2;3;0;0
+Nombre:Luis M. Otero
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;0;0;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;0;0;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;1;1;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;1;0;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;1;0;;
+6;Costa de Marfil;Japón;3;0;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;0;0;;
+37;Japón;Colombia;0;1;;
+38;Grecia;Costa de Marfil;2;0;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;0;2;;
+40;Costa Rica;Inglaterra;0;3;;
+9;Suiza;Ecuador;0;2;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;0;1;;
+26;Honduras;Ecuador;0;2;;
+41;Honduras;Suiza;0;0;;
+42;Ecuador;Francia;0;0;;
+11;Argentina;Bosnia-Herzegovina;3;0;;
+12;Irán;Nigeria;0;3;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;0;1;;
+43;Nigeria;Argentina;0;1;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;1;0;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;0;2;;
+45;EEUU;Alemania;0;3;;
+46;Portugal;Ghana;2;2;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;1;1;;
+47;República de Corea;Bélgica;0;2;;
+48;Argelia;Rusia;1;2;;
+49;Brasil;Países Bajos;1;0;0;0
+50;Colombia;Inglaterra;0;1;0;0
+51;España;Croacia;3;0;0;0
+52;Uruguay;Costa de Marfil;2;1;0;0
+53;Ecuador;Bosnia-Herzegovina;0;1;0;0
+54;Alemania;Rusia;4;1;0;0
+55;Argentina;Francia;1;1;5;3
+56;Bélgica;Portugal;2;1;0;0
+57;Brasil;Inglaterra;2;0;0;0
+58;Bosnia-Herzegovina;Alemania;1;3;0;0
+59;España;Uruguay;1;0;0;0
+60;Argentina;Bélgica;2;1;0;0
+61;Brasil;Alemania;1;1;4;2
+62;España;Argentina;0;2;0;0
+63;Alemania;España;2;0;0;0
+64;Brasil;Argentina;1;0;0;0
+Nombre:Hernando Lopez
+Edad:37
+País:USA
+Ciudad:Houston
+Correo:hernando.lopez@slb.com
+Teléfono:2816874009
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;2;1;;
+17;Brasil;México;2;2;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;0;1;;
+34;Camerún;Brasil;1;4;;
+3;España;Países Bajos;1;1;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;0;4;;
+20;España;Chile;2;1;;
+35;Australia;España;1;3;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;1;2;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;2;0;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;2;1;;
+7;Uruguay;Costa Rica;2;1;;
+8;Inglaterra;Italia;2;2;;
+23;Uruguay;Inglaterra;2;2;;
+24;Italia;Costa Rica;2;1;;
+39;Italia;Uruguay;2;1;;
+40;Costa Rica;Inglaterra;1;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;3;1;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;2;1;;
+42;Ecuador;Francia;0;0;;
+11;Argentina;Bosnia-Herzegovina;4;1;;
+12;Irán;Nigeria;2;2;;
+27;Argentina;Irán;3;1;;
+28;Nigeria;Bosnia-Herzegovina;2;0;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;3;0;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;2;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;2;1;;
+16;Rusia;República de Corea;2;2;;
+31;Bélgica;Rusia;1;2;;
+32;República de Corea;Argelia;2;0;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;1;3;;
+49;Brasil;Países Bajos;2;0;0;0
+50;Japón;Inglaterra;1;2;0;0
+51;España;México;3;1;0;0
+52;Italia;Colombia;1;1;4;5
+53;Francia;Nigeria;2;1;0;0
+54;Portugal;Bélgica;2;2;5;4
+55;Argentina;Ecuador;3;1;0;0
+56;Rusia;Alemania;1;2;0;0
+57;Brasil;Inglaterra;2;1;0;0
+58;Francia;Portugal;1;2;0;0
+59;España;Colombia;2;2;5;4
+60;Argentina;Alemania;1;2;0;0
+61;Brasil;Portugal;3;2;0;0
+62;España;Alemania;1;2;0;0
+63;Portugal;España;2;2;4;5
+64;Brasil;Alemania;1;2;0;0
+Nombre:Luis G Parra
+Edad:23
+País:E.E.U.U.
+Ciudad:Houston
+Correo:luisparra90@gmail.com
+Teléfono:8327907315
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;2;0;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;2;1;;
+34;Camerún;Brasil;0;2;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;0;2;;
+20;España;Chile;2;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;2;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;2;1;;
+37;Japón;Colombia;1;3;;
+38;Grecia;Costa de Marfil;0;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;1;2;;
+23;Uruguay;Inglaterra;3;2;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;1;3;;
+9;Suiza;Ecuador;0;2;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;3;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;0;1;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;1;0;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;3;1;;
+29;Alemania;Ghana;3;1;;
+30;EEUU;Portugal;2;2;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;1;0;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;3;1;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;Chile;3;2;0;0
+50;Colombia;Italia;1;2;0;0
+51;España;Croacia;3;1;0;0
+52;Uruguay;Costa de Marfil;2;1;0;0
+53;Francia;Bosnia-Herzegovina;3;0;0;0
+54;Alemania;Rusia;3;1;0;0
+55;Argentina;Ecuador;4;1;0;0
+56;Bélgica;Portugal;1;2;0;0
+57;Brasil;Italia;3;2;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Uruguay;3;2;0;0
+60;Argentina;Portugal;3;1;0;0
+61;Brasil;Alemania;3;2;0;0
+62;España;Argentina;2;1;0;0
+63;Alemania;Argentina;2;3;0;0
+64;Brasil;España;3;1;0;0
+Nombre:Pablo E Ruggeri
+Edad:26
+País:EEUU
+Ciudad:Houston
+Correo:pabloeruggeri@gmai.com
+Teléfono:2819351108
+1;Brasil;Croacia;2;0;;
+2;México;Camerún;1;3;;
+17;Brasil;México;3;0;;
+18;Camerún;Croacia;2;2;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;2;2;;
+4;Chile;Australia;3;0;;
+19;Australia;Países Bajos;0;4;;
+20;España;Chile;2;2;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;2;1;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;1;1;;
+21;Colombia;Costa de Marfil;1;1;;
+22;Japón;Grecia;2;2;;
+37;Japón;Colombia;1;1;;
+38;Grecia;Costa de Marfil;1;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;1;2;;
+23;Uruguay;Inglaterra;2;1;;
+24;Italia;Costa Rica;2;0;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;3;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;0;2;;
+27;Argentina;Irán;5;0;;
+28;Nigeria;Bosnia-Herzegovina;2;2;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;2;0;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;2;1;;
+29;Alemania;Ghana;2;1;;
+30;EEUU;Portugal;3;0;;
+45;EEUU;Alemania;0;2;;
+46;Portugal;Ghana;2;1;;
+15;Bélgica;Argelia;3;0;;
+16;Rusia;República de Corea;2;0;;
+31;Bélgica;Rusia;2;2;;
+32;República de Corea;Argelia;2;1;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;2;;
+49;Brasil;España;3;2;0;0
+50;Colombia;Italia;0;1;0;0
+51;Países Bajos;Camerún;2;1;0;0
+52;Uruguay;Costa de Marfil;3;2;0;0
+53;Francia;Nigeria;3;2;0;0
+54;Alemania;Rusia;2;1;0;0
+55;Argentina;Ecuador;3;1;0;0
+56;Bélgica;Portugal;1;2;0;0
+57;Brasil;Italia;2;1;0;0
+58;Francia;Alemania;1;2;0;0
+59;Países Bajos;Uruguay;1;2;0;0
+60;Argentina;Portugal;3;2;0;0
+61;Brasil;Alemania;3;2;0;0
+62;Uruguay;Argentina;1;2;0;0
+63;Alemania;Uruguay;3;1;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Jose Vivas
+Edad:24
+País:Venezuela
+Ciudad:Puerto Ordaz
+Correo:jvivasdiaz@gmail.com
+Teléfono:8326516004
+1;Brasil;Croacia;3;1;;
+2;México;Camerún;0;1;;
+17;Brasil;México;3;0;;
+18;Camerún;Croacia;1;2;;
+33;Croacia;México;1;0;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;2;0;;
+4;Chile;Australia;2;0;;
+19;Australia;Países Bajos;1;1;;
+20;España;Chile;1;1;;
+35;Australia;España;0;3;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;2;0;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;2;1;;
+37;Japón;Colombia;0;1;;
+38;Grecia;Costa de Marfil;0;3;;
+7;Uruguay;Costa Rica;3;0;;
+8;Inglaterra;Italia;0;2;;
+23;Uruguay;Inglaterra;1;0;;
+24;Italia;Costa Rica;3;0;;
+39;Italia;Uruguay;0;0;;
+40;Costa Rica;Inglaterra;0;2;;
+9;Suiza;Ecuador;1;2;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;1;;
+42;Ecuador;Francia;1;1;;
+11;Argentina;Bosnia-Herzegovina;4;0;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;3;0;;
+28;Nigeria;Bosnia-Herzegovina;2;1;;
+43;Nigeria;Argentina;1;3;;
+44;Bosnia-Herzegovina;Irán;1;1;;
+13;Alemania;Portugal;2;0;;
+14;Ghana;EEUU;0;1;;
+29;Alemania;Ghana;2;1;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;3;0;;
+32;República de Corea;Argelia;3;1;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Chile;2;0;0;0
+50;Colombia;Uruguay;1;2;0;0
+51;España;Croacia;2;0;0;0
+52;Italia;Costa de Marfil;2;1;0;0
+53;Francia;Nigeria;1;0;0;0
+54;Alemania;Rusia;3;0;0;0
+55;Argentina;Ecuador;3;0;0;0
+56;Bélgica;Portugal;2;1;0;0
+57;Brasil;Uruguay;2;1;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Italia;1;2;0;0
+60;Argentina;Bélgica;3;2;0;0
+61;Brasil;Alemania;2;1;0;0
+62;Italia;Argentina;1;1;4;5
+63;Alemania;Italia;2;1;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Manuel Godin
+Edad:27
+País:USA
+Ciudad:Houston
+Correo:manuelgm@gmail.com
+Teléfono:
+1;Brasil;Croacia;1;1;;
+2;México;Camerún;1;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;0;1;;
+33;Croacia;México;2;2;;
+34;Camerún;Brasil;1;2;;
+3;España;Países Bajos;0;0;;
+4;Chile;Australia;1;0;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;2;1;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;0;1;;
+5;Colombia;Grecia;2;1;;
+6;Costa de Marfil;Japón;0;0;;
+21;Colombia;Costa de Marfil;2;1;;
+22;Japón;Grecia;1;1;;
+37;Japón;Colombia;0;0;;
+38;Grecia;Costa de Marfil;2;1;;
+7;Uruguay;Costa Rica;2;0;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;3;2;;
+24;Italia;Costa Rica;1;0;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;1;1;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;3;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;4;;
+41;Honduras;Suiza;1;2;;
+42;Ecuador;Francia;0;0;;
+11;Argentina;Bosnia-Herzegovina;1;0;;
+12;Irán;Nigeria;0;3;;
+27;Argentina;Irán;4;0;;
+28;Nigeria;Bosnia-Herzegovina;1;1;;
+43;Nigeria;Argentina;0;2;;
+44;Bosnia-Herzegovina;Irán;3;0;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;0;;
+30;EEUU;Portugal;0;1;;
+45;EEUU;Alemania;1;1;;
+46;Portugal;Ghana;3;2;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;3;2;;
+31;Bélgica;Rusia;2;1;;
+32;República de Corea;Argelia;0;2;;
+47;República de Corea;Bélgica;1;3;;
+48;Argelia;Rusia;0;1;;
+49;Brasil;Chile;3;2;0;0
+50;Colombia;Italia;0;0;4;3
+51;España;Croacia;1;0;0;0
+52;Uruguay;Grecia;1;0;0;0
+53;Francia;Bosnia-Herzegovina;0;1;0;0
+54;Portugal;Rusia;3;0;0;0
+55;Argentina;Ecuador;1;0;0;0
+56;Bélgica;Alemania;1;2;0;0
+57;Brasil;Colombia;2;0;0;0
+58;Bosnia-Herzegovina;Portugal;1;3;0;0
+59;España;Uruguay;1;0;0;0
+60;Argentina;Alemania;2;1;0;0
+61;Brasil;Portugal;1;0;0;0
+62;España;Argentina;0;1;0;0
+63;Portugal;España;0;2;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Nayeem Khalid
+Edad:40
+País:USA
+Ciudad:Dickinson, TX
+Correo:nkhal@yahoo.com
+Teléfono:832-561-7066
+1;Brasil;Croacia;4;1;;
+2;México;Camerún;2;1;;
+17;Brasil;México;1;0;;
+18;Camerún;Croacia;0;2;;
+33;Croacia;México;1;2;;
+34;Camerún;Brasil;1;3;;
+3;España;Países Bajos;2;1;;
+4;Chile;Australia;1;0;;
+19;Australia;Países Bajos;1;3;;
+20;España;Chile;1;0;;
+35;Australia;España;0;2;;
+36;Países Bajos;Chile;1;1;;
+5;Colombia;Grecia;3;1;;
+6;Costa de Marfil;Japón;2;1;;
+21;Colombia;Costa de Marfil;1;0;;
+22;Japón;Grecia;1;2;;
+37;Japón;Colombia;1;2;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;1;1;;
+23;Uruguay;Inglaterra;1;1;;
+24;Italia;Costa Rica;3;1;;
+39;Italia;Uruguay;1;1;;
+40;Costa Rica;Inglaterra;0;1;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;2;0;;
+25;Suiza;Francia;1;2;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;0;1;;
+42;Ecuador;Francia;1;2;;
+11;Argentina;Bosnia-Herzegovina;3;1;;
+12;Irán;Nigeria;1;2;;
+27;Argentina;Irán;5;0;;
+28;Nigeria;Bosnia-Herzegovina;2;2;;
+43;Nigeria;Argentina;1;2;;
+44;Bosnia-Herzegovina;Irán;3;1;;
+13;Alemania;Portugal;0;0;;
+14;Ghana;EEUU;1;2;;
+29;Alemania;Ghana;3;0;;
+30;EEUU;Portugal;1;2;;
+45;EEUU;Alemania;0;1;;
+46;Portugal;Ghana;2;0;;
+15;Bélgica;Argelia;2;0;;
+16;Rusia;República de Corea;1;0;;
+31;Bélgica;Rusia;1;1;;
+32;República de Corea;Argelia;2;1;;
+47;República de Corea;Bélgica;1;2;;
+48;Argelia;Rusia;0;3;;
+49;Brasil;Países Bajos;3;1;0;0
+50;Colombia;Uruguay;2;2;3;4
+51;España;México;3;2;0;0
+52;Italia;Costa de Marfil;1;0;0;0
+53;Francia;Bosnia-Herzegovina;2;1;0;0
+54;Alemania;Bélgica;3;2;0;0
+55;Argentina;Ecuador;3;1;0;0
+56;Rusia;Portugal;1;2;0;0
+57;Brasil;Uruguay;3;1;0;0
+58;Francia;Alemania;1;2;0;0
+59;España;Italia;2;2;5;4
+60;Argentina;Portugal;1;0;0;0
+61;Brasil;Alemania;3;1;0;0
+62;España;Argentina;1;1;4;5
+63;Alemania;España;2;3;0;0
+64;Brasil;Argentina;2;1;0;0
+Nombre:Matt Mciver
+Edad:
+País:
+Ciudad:
+Correo:
+Teléfono:
+1;Brasil;Croacia;3;0;;
+2;México;Camerún;2;1;;
+17;Brasil;México;3;1;;
+18;Camerún;Croacia;1;4;;
+33;Croacia;México;2;1;;
+34;Camerún;Brasil;0;5;;
+3;España;Países Bajos;4;2;;
+4;Chile;Australia;5;1;;
+19;Australia;Países Bajos;0;3;;
+20;España;Chile;3;2;;
+35;Australia;España;0;5;;
+36;Países Bajos;Chile;2;2;;
+5;Colombia;Grecia;3;2;;
+6;Costa de Marfil;Japón;4;2;;
+21;Colombia;Costa de Marfil;2;2;;
+22;Japón;Grecia;1;2;;
+37;Japón;Colombia;1;3;;
+38;Grecia;Costa de Marfil;2;2;;
+7;Uruguay;Costa Rica;3;1;;
+8;Inglaterra;Italia;2;4;;
+23;Uruguay;Inglaterra;3;1;;
+24;Italia;Costa Rica;4;1;;
+39;Italia;Uruguay;2;2;;
+40;Costa Rica;Inglaterra;2;3;;
+9;Suiza;Ecuador;1;1;;
+10;Francia;Honduras;2;1;;
+25;Suiza;Francia;2;1;;
+26;Honduras;Ecuador;1;2;;
+41;Honduras;Suiza;1;3;;
+42;Ecuador;Francia;2;2;;
+11;Argentina;Bosnia-Herzegovina;3;2;;
+12;Irán;Nigeria;0;1;;
+27;Argentina;Irán;5;1;;
+28;Nigeria;Bosnia-Herzegovina;0;2;;
+43;Nigeria;Argentina;1;4;;
+44;Bosnia-Herzegovina;Irán;3;0;;
+13;Alemania;Portugal;2;2;;
+14;Ghana;EEUU;1;1;;
+29;Alemania;Ghana;2;1;;
+30;EEUU;Portugal;1;3;;
+45;EEUU;Alemania;1;3;;
+46;Portugal;Ghana;3;1;;
+15;Bélgica;Argelia;1;1;;
+16;Rusia;República de Corea;2;1;;
+31;Bélgica;Rusia;3;1;;
+32;República de Corea;Argelia;1;2;;
+47;República de Corea;Bélgica;1;4;;
+48;Argelia;Rusia;2;2;;
+49;Brasil;Chile;3;1;0;0
+50;Colombia;Uruguay;6;5;0;0
+51;España;Croacia;3;1;0;0
+52;Italia;Costa de Marfil;2;1;0;0
+53;Suiza;Bosnia-Herzegovina;3;2;0;0
+54;Portugal;Argelia;3;1;0;0
+55;Argentina;Ecuador;3;1;0;0
+56;Bélgica;Alemania;1;3;0;0
+57;Brasil;Colombia;2;1;0;0
+58;Suiza;Portugal;1;3;0;0
+59;España;Italia;3;2;0;0
+60;Argentina;Alemania;2;3;0;0
+61;Brasil;Portugal;3;2;0;0
+62;España;Alemania;1;2;0;0
+63;Portugal;España;1;2;0;0
+64;Brasil;Alemania;1;2;0;0
+
